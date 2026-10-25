@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
+  "versionCode": 18,
+  "versionName": "2.7",
   "apk": "https://github.com/conghoang/clusterdash-dist/releases/latest/download/ClusterDash.apk",
-  "notes": "2 bản đồ trên 2 thẻ (Google Maps + VietMap); che nút điều khiển; giữ auto-update + ghế tự mát."
+  "notes": "Ghế tự mát ổn định (cửa sổ ~5 phút); Năng lượng tiêu thụ cộng dồn (đúng cả khi sạc giữa ngày)."
 }
