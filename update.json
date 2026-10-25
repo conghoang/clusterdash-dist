@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "apk": "https://github.com/conghoang/clusterdash-dist/releases/latest/download/ClusterDash.apk",
-  "notes": "Auto-update enabled; seat auto-cool fix; flow label; trip font."
+  "notes": "Auto-update pipeline test build."
 }
