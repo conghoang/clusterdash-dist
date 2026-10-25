@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 16,
+  "versionName": "2.5",
   "apk": "https://github.com/conghoang/clusterdash-dist/releases/latest/download/ClusterDash.apk",
-  "notes": "ClusterDash tự cập nhật."
+  "notes": "2 bản đồ trên 2 thẻ (Google Maps + VietMap); che nút điều khiển; giữ auto-update + ghế tự mát."
 }
